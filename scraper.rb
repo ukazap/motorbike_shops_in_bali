@@ -7,7 +7,7 @@ def hash_to_query(hash)
   return URI.encode(hash.map{|k,v| "#{k}=#{v}"}.join("&"))
 end
 
-keywords = ['motorbike rental', 'bike rental', 'motorbike rent', 'bike rent', 'sewa motor']
+keywords = ['motorbike rental', 'bike rental', 'motorbike rent', 'bike rent', 'sewa motor', 'rental motor']
 
 apikey = ENV["MORPH_GOOGLE_MAPS_API_KEY"]
 
