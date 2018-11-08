@@ -1,25 +1,59 @@
-# This is a template for a Ruby scraper on morph.io (https://morph.io)
-# including some code snippets below that you should find helpful
+require 'scraperwiki'
+require 'uri'
+require 'json'
+require 'faraday'
 
-# require 'scraperwiki'
-# require 'mechanize'
-#
-# agent = Mechanize.new
-#
-# # Read in a page
-# page = agent.get("http://foo.com")
-#
-# # Find somehing on the page using css selectors
-# p page.at('div.content')
-#
-# # Write out to the sqlite database using scraperwiki library
-# ScraperWiki.save_sqlite(["name"], {"name" => "susan", "occupation" => "software developer"})
-#
-# # An arbitrary query against the database
-# ScraperWiki.select("* from data where 'name'='peter'")
+def hash_to_query(hash)
+  return URI.encode(hash.map{|k,v| "#{k}=#{v}"}.join("&"))
+end
 
-# You don't have to do things with the Mechanize or ScraperWiki libraries.
-# You can use whatever gems you want: https://morph.io/documentation/ruby
-# All that matters is that your final data is written to an SQLite database
-# called "data.sqlite" in the current working directory which has at least a table
-# called "data".
+apikey = ENV["MORPH_GOOGLE_MAPS_API_KEY"]
+page = 1
+pagetoken = nil
+
+loop do
+  params = hash_to_query({
+    key: apikey,
+    location: '-8.340342,115.091389',
+    radius: 100000,
+    keyword: 'motorbike rental',
+    pagetoken: pagetoken
+  })
+
+  list_response = Faraday.get("https://maps.googleapis.com/maps/api/place/nearbysearch/json?#{params}")
+  data = JSON.parse list_response.body rescue Hash.new
+  next_page_token = data['next_page_token']
+
+  puts "ON PAGE #{page}"
+
+  data['results'].each do |place|
+    placeid = place['place_id']
+    puts "ON PLACE #{placeid}"
+
+    details_response = Faraday.get("https://maps.googleapis.com/maps/api/place/details/json?key=#{apikey}&placeid=#{placeid}&fields=name,rating,price_level,international_phone_number,formatted_address,website,permanently_closed,place_id,vicinity,geometry,url")
+    details = (JSON.parse details_response.body rescue Hash.new)['result']
+
+    if !details.nil?
+      ScraperWiki.save_sqlite(["place_id"], {
+        place_id:                     details['place_id'],
+        name:                         details['name'],
+        rating:                       details['rating'],
+        price_level:                  details['price_level'],
+        international_phone_number:   details['international_phone_number'],
+        formatted_address:            details['formatted_address'],
+        website:                      details['website'],
+        permanently_closed:           details['permanently_closed'],
+        vicinity:                     details['vicinity'],
+        latitude:                     details['geometry']['location']['lat'],
+        longitude:                    details['geometry']['location']['lng'],
+        url:                          details['url']
+      })
+    end
+  end
+
+  break if next_page_token.nil?
+  pagetoken = next_page_token
+  page += 1
+end
+
+puts "DONE"
