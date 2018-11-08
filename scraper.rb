@@ -35,18 +35,18 @@ loop do
 
     if !details.nil?
       ScraperWiki.save_sqlite(["place_id"], {
-        place_id:                     details['place_id'],
-        name:                         details['name'],
-        rating:                       details['rating'],
-        price_level:                  details['price_level'],
-        international_phone_number:   details['international_phone_number'],
-        formatted_address:            details['formatted_address'],
-        website:                      details['website'],
-        permanently_closed:           details['permanently_closed'],
-        vicinity:                     details['vicinity'],
-        latitude:                     details['geometry']['location']['lat'],
-        longitude:                    details['geometry']['location']['lng'],
-        url:                          details['url']
+        "place_id" =>                   details['place_id'],
+        "name" =>                       details['name'],
+        "rating" =>                     details['rating'],
+        "price_level" =>                details['price_level'],
+        "international_phone_number" => details['international_phone_number'],
+        "formatted_address" =>          details['formatted_address'],
+        "website" =>                    details['website'],
+        "permanently_closed" =>         details['permanently_closed'],
+        "vicinity" =>                   details['vicinity'],
+        "latitude" =>                   details['geometry']['location']['lat'],
+        "longitude" =>                  details['geometry']['location']['lng'],
+        "url" =>                        details['url']
       })
     end
   end
