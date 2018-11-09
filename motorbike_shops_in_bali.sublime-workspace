@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"keywo",
+				"keyword"
+			],
+			[
 				"update",
 				"update"
 			],
@@ -510,10 +514,6 @@
 			[
 				"make",
 				"make_available\t(motorbike.rb)"
-			],
-			[
-				"bike",
-				"bike_model"
 			]
 		]
 	},
@@ -523,16 +523,18 @@
 			"file": "scraper.rb",
 			"settings":
 			{
-				"buffer_size": 2044,
+				"buffer_size": 2285,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Gemfile.lock",
+			"contents": "Injecting configuration and compiling...\n Injecting scraper and running...\n ON KEYWORD motorbike rental\n ON PAGE 1\n ON PLACE ChIJkbDxmbhG0i0RSkt92U0xqwo\n ON PLACE ChIJX4WQRGk90i0RBd9QiLuVwSw\n ON PLACE ChIJp6YnqKBG0i0R7L12bNuBR3U\n ON PLACE ChIJvxpnDrdG0i0Rxm4sS-kDBGQ\n ON PLACE ChIJt4m8e0M90i0R8tkzsMfQRn4\n ON PLACE ChIJKanIIGBH0i0Rry2z-WEBMrQ\n ON PLACE ChIJX-nbortG0i0RYmsmzYBzQ1Y\n ON PLACE ChIJ_bByzms90i0Rfywra4Z9A28\n ON PLACE ChIJR9fBD25E0i0R-ZQhX1x9Gw0\n ON PLACE ChIJEw2K1J040i0RrCGWj4EOEwU\n ON PLACE ChIJM90WtHhH0i0Rl-ISfxD2jtE\n ON PLACE ChIJAchHrHpH0i0R6B0-YuklFFs\n ON PLACE ChIJheb1dkhH0i0RZLGGQae8ET4\n ON PLACE ChIJvczNQN5G0i0Rzq-zdSsnVbc\n ON PLACE ChIJBy0nJxU90i0REXKdBAKqYXo\n ON PLACE ChIJexfiLCFH0i0RIDFaQB1wsBc\n ON PLACE ChIJmf4bbV490i0RsDiyCQE6WyY\n ON PLACE ChIJzb0myLg40i0R74ZgmtQzVpo\n ON PLACE ChIJIcYjmotE0i0R73Zj6IMNODo\n ON PLACE ChIJ54iFmZ040i0RKDCfiX50tgY\n ON PAGE 2\n ON PLACE ChIJ-TtUhnQ90i0R_rvywgF3XMI\n ON PLACE ChIJA3MvwhtH0i0RpHVUcJc6Tz4\n ON PLACE ChIJ21ZERVk50i0RkNYLNytfnjI\n ON PLACE ChIJg7E8hok40i0RvlgLG9PFNs0\n ON PLACE ChIJ_xDuSXw40i0Rtlx6iht9nW0\n ON PLACE ChIJ_5PzpZE40i0R88UzHZ5Hkqc\n ON PLACE ChIJw83qQANE0i0R6vs-NbYUhKI\n ON PLACE ChIJc19AYSJE0i0Rql6dIKqJk2I\n ON PLACE ChIJY3F0uh9E0i0RB_7czfcUw8U\n ON PLACE ChIJi9S3GyJE0i0Rqn1022eNUhw\n ON PLACE ChIJ-WI8hc5G0i0RgQ3u7BFFIcc\n ON PLACE ChIJeRo6oGtH0i0RJRK6pEu8op4\n ON PLACE ChIJO5LEeGtH0i0RIuqe8MwLnWI\n ON PLACE ChIJ4Yv8m9BG0i0RqGSk4kPAew4\n ON PLACE ChIJ9Tg88nA40i0R0hoZePo2pao\n ON PLACE ChIJ9wvyBtw40i0R-LUmi2Vv3e4\n ON PLACE ChIJQQSj7SJH0i0RZgOwWnLnOh4\n ON PLACE ChIJ2wuo6bFG0i0RAjoxZ7Rug2k\n ON PLACE ChIJk2rjRm9D0i0R5rPkeoAfQ_Q\n ON PLACE ChIJy0sO1NpG0i0Rz2m7jOFIl4w\n ON PAGE 3\n ON PLACE ChIJnzReDn9H0i0RPFnMjhPebaQ\n ON PLACE ChIJFSqqM6Mp0i0RJ1rnoGNF7gE\n ON PLACE ChIJlQU9tSNH0i0RfztIp1rlWN0\n ON PLACE ChIJ93If4olE0i0RXlmq4LY8VCU\n ON PLACE ChIJaQmLrn9H0i0RJfbGlv2RT2Y\n ON PLACE ChIJYdwQ1x5H0i0RzWDobQasOlI\n ON PLACE ChIJXe89bE1H0i0RNq5XGczkOSk\n ON PLACE ChIJVQHOU8E40i0RqsyjCf4zIPY\n ON PLACE ChIJ38Y6Hnw40i0RUnbf8M1dYYY\n ON PLACE ChIJHzpKyjpH0i0RgbEx6s0JS18\n ON PLACE ChIJYVIzMSBH0i0RAfZ0B7fyizg\n ON PLACE ChIJ7a1aEOtH0i0RSGku_2S8HOI\n ON PLACE ChIJbRuNJWNA0i0RhM6muzZvei8\n ON PLACE ChIJ-x7oy1VH0i0R5JpraySIgyo\n ON PLACE ChIJyfFqNVU_0i0RVAkhDoNASrQ\n ON PLACE ChIJPWkd0jMp0i0RpPgluLsdm7M\n ON PLACE ChIJi3n2YMBG0i0Rakop1Zc_zHk\n ON PLACE ChIJdVfcOZ490i0RNawSGkwbiIU\n ON PLACE ChIJTZ9oK2-H0S0Rl1pnTSFhF3c\n ON PLACE ChIJ3-QnPuwY0i0RRri2RvWiQ-I\n ON KEYWORD bike rental\n ON PAGE 1\n ON PLACE ChIJGzjX22BH0i0RxYaZ3mRVA18\n ON PLACE ChIJkzY39zVA0i0Ramkf2cTlkz4\n ON PLACE ChIJ6Xpf4GZA0i0ReaTr3z7c3ic\n ON PLACE ChIJ5awhoFdA0i0RfJ9mqamemKA\n ON PLACE ChIJK3qWqEE90i0RbyJe-V5wx4g\n ON PLACE ChIJhRsErGZA0i0RAzJ9XlAEXS0\n ON PLACE ChIJYVAatW090i0RCRZ8wl4Gggk\n ON PLACE ChIJ0UqlgHQ90i0RHK05x5YypX4\n ON PLACE ChIJJ_zvD25E0i0RIddpvXjGoJY\n ON PLACE ChIJGwXOpDlA0i0R7KJfaejZ8Nc\n ON PLACE ChIJE0CEVNpa0i0RcjmA0mita2s\n ON PLACE ChIJuYft4GZA0i0RDsmjQ2TY2SA\n ON PLACE ChIJN-gjPWlB0i0RQ1PRL08PkwU\n ON PLACE ChIJ3UwJ2D2b0S0Rqj06xIgTtJo\n ON PLACE ChIJBa7d_zBB0i0RTLHkbnmrFD4\n ON PLACE ChIJjynVIjo90i0RH64Hu_bCj4M\n ON PLACE ChIJO5LEeGtH0i0RIuqe8MwLnWI\n ON PLACE ChIJk2EJrmZA0i0RgNjF4DzW24A\n ON PLACE ChIJD2i64K9t0i0RMkWg6KXzHZs\n ON PLACE ChIJy1wigqVG0i0R9hJBP7X4ux4\n ON PAGE 2\n ON PLACE ChIJAzJ-pcdB0i0RvNZcVvJalzM\n ON PLACE ChIJF0RNBn5A0i0RezbUlUZLFu4\n ON PLACE ChIJ48P1RHI90i0RQuAiRJYY4_g\n ON PLACE ChIJ5ZdtqJtA0i0RYyszjWMgUcw\n ON PLACE ChIJH_UF2GZA0i0RLo0PEQ9LKTQ\n ON PLACE ChIJsfSOgmtH0i0RUd4vWtWuqOs\n ON PLACE ChIJuYft4GZA0i0R_HixtAylykc\n ON PLACE ChIJy8RwrmZA0i0R9m6_6sZzyLQ\n ON PLACE ChIJncIpCEI90i0RGSkrdnUhmp4\n ON PLACE ChIJXYxjDn9H0i0RzaraQfGBDxs\n ON PLACE ChIJaceurmZA0i0RRuCgX6QcwRA\n ON PLACE ChIJlzDvfBdH0i0R-4TscC8XDNo\n ON PLACE ChIJFe3G2WZA0i0RLrXJa41EGJE\n ON PLACE ChIJlU8R5bYw0i0Rm0bq3Fsjf4w\n ON PLACE ChIJO6h96yYw0i0R3GJ7DWxml_o\n ON PLACE ChIJx64x0Gs90i0RXB2Ou78C7CA\n ON PLACE ChIJaceurmZA0i0REyQdciS7Ikk\n ON PLACE ChIJ6Xpf4GZA0i0RTP3NwKiIAD8\n ON PLACE ChIJAx_I2B9E0i0Rq18TRCWzknk\n ON PLACE ChIJ_bByzms90i0Rfywra4Z9A28\n ON PAGE 3\n ON PLACE ChIJs5u-2jU30i0R7BJYaFB_pNQ\n ON PLACE ChIJ3QPI3yNH0i0R4gb-yKtrF0g\n ON PLACE ChIJDcIAeuCb0S0RotcDjw3d-Lg\n ON PLACE ChIJJ0g9fAM_0i0RcND0PVLIU1I\n ON PLACE ChIJjW19xh490i0RKdYGk8G5WaY\n ON PLACE ChIJawsIQ51A0i0RDrqwePAiIAY\n ON PLACE ChIJx3tOidwX0i0RWiughOmao6Y\n ON PLACE ChIJjxlpRXtE0i0R0okxIXdEcsE\n ON PLACE ChIJNRJD-X1A0i0R7SavFnaM-L0\n ON PLACE ChIJ-9HG2GZA0i0RS7t3qHbY2DE\n ON PLACE ChIJA-gVnUc80i0R2Ll5CG3Y2is\n ON PLACE ChIJO3L5rddA0i0R4_suPm7WPIo\n ON PLACE ChIJM37Hw9JF0i0RdMazWQ_qsp4\n ON PLACE ChIJUeZRY9VF0i0RMQeh2SZwQB8\n ON PLACE ChIJKazybDub0S0R5uYp1vDQsZo\n ON PLACE ChIJv-3-5BA50i0RzkR9BMaeUe4\n ON PLACE ChIJy9Ri2OtH0i0RZrshANF6r_s\n ON PLACE ChIJqaxwIogh0i0RlFIfzn3A0js\n ON PLACE ChIJSQIDDW870i0REzOvgqZKpLA\n ON PLACE ChIJsbuT5YdB0i0R2Xtsxjh8Hco\n ON KEYWORD motorbike rent\n ON PAGE 1\n ON PLACE ChIJX4WQRGk90i0RBd9QiLuVwSw\n ON PLACE ChIJKanIIGBH0i0Rry2z-WEBMrQ\n ON PLACE ChIJkbDxmbhG0i0RSkt92U0xqwo\n ON PLACE ChIJp6YnqKBG0i0R7L12bNuBR3U\n ON PLACE ChIJX-nbortG0i0RYmsmzYBzQ1Y\n ON PLACE ChIJx64x0Gs90i0RXB2Ou78C7CA\n ON PLACE ChIJvxpnDrdG0i0Rxm4sS-kDBGQ\n ON PLACE ChIJR9fBD25E0i0R-ZQhX1x9Gw0\n ON PLACE ChIJ-TtUhnQ90i0R_rvywgF3XMI\n ON PLACE ChIJexfiLCFH0i0RIDFaQB1wsBc\n ON PLACE ChIJmf4bbV490i0RsDiyCQE6WyY\n ON PLACE ChIJzb0myLg40i0R74ZgmtQzVpo\n ON PLACE ChIJEw2K1J040i0RrCGWj4EOEwU\n ON PLACE ChIJYf9fVnNt0i0RFgCvhdYndBo\n ON PLACE ChIJ_bByzms90i0Rfywra4Z9A28\n ON PLACE ChIJheb1dkhH0i0RZLGGQae8ET4\n ON PLACE ChIJsfSOgmtH0i0RUd4vWtWuqOs\n ON PLACE ChIJA3MvwhtH0i0RpHVUcJc6Tz4\n ON PLACE ChIJM90WtHhH0i0Rl-ISfxD2jtE\n ON PLACE ChIJ_06cv7dG0i0RFCywtGY1Dok\n ON PAGE 2\n ON PLACE ChIJY3F0uh9E0i0RB_7czfcUw8U\n ON PLACE ChIJaQmLrn9H0i0RJfbGlv2RT2Y\n ON PLACE ChIJvczNQN5G0i0Rzq-zdSsnVbc\n ON PLACE ChIJIcYjmotE0i0R73Zj6IMNODo\n ON PLACE ChIJQQSj7SJH0i0RZgOwWnLnOh4\n ON PLACE ChIJ_xDuSXw40i0Rtlx6iht9nW0\n ON PLACE ChIJU85IpEE90i0RPuxPDauc4jM\n ON PLACE ChIJ54iFmZ040i0RKDCfiX50tgY\n ON PLACE ChIJ21ZERVk50i0RkNYLNytfnjI\n ON PLACE ChIJYdwQ1x5H0i0RzWDobQasOlI\n ON PLACE ChIJeRo6oGtH0i0RJRK6pEu8op4\n ON PLACE ChIJ_5PzpZE40i0R88UzHZ5Hkqc\n ON PLACE ChIJBy0nJxU90i0REXKdBAKqYXo\n ON PLACE ChIJv0ThesNG0i0RTNj4BNgVTYI\n ON PLACE ChIJg7E8hok40i0RvlgLG9PFNs0\n ON PLACE ChIJVQHOU8E40i0RqsyjCf4zIPY\n ON PLACE ChIJHzpKyjpH0i0RgbEx6s0JS18\n ON PLACE ChIJQ4_08shB0i0R7CMITMdpUYk\n ON PLACE ChIJk2rjRm9D0i0R5rPkeoAfQ_Q\n ON PLACE ChIJqW7yWfBA0i0R6mo1C0uWgnM\n ON PAGE 3\n ON PLACE ChIJ_ctNcnY90i0RNnf5189yne8\n ON PLACE ChIJT3FGKno40i0RsQLyEw-Mlhw\n ON PLACE ChIJG_Tk8t5G0i0R3t6jE3NzCTk\n ON PLACE ChIJzZxWuDA90i0R40Kcp4DEGKU\n ON PLACE ChIJO5LEeGtH0i0RIuqe8MwLnWI\n ON PLACE ChIJXe89bE1H0i0RNq5XGczkOSk\n ON PLACE ChIJi9S3GyJE0i0Rqn1022eNUhw\n ON PLACE ChIJ9wvyBtw40i0R-LUmi2Vv3e4\n ON PLACE ChIJ4Yv8m9BG0i0RqGSk4kPAew4\n ON PLACE ChIJYY_XBe1u0S0RMtPCuHbbm_g\n ON PLACE ChIJw83qQANE0i0R6vs-NbYUhKI\n ON PLACE ChIJc19AYSJE0i0Rql6dIKqJk2I\n ON PLACE ChIJu9UR-CJH0i0RDsIVFenXvNQ\n ON PLACE ChIJZQ0vXtlG0i0R9T-krE9sBSw\n ON PLACE ChIJwXip9YlE0i0RJWQZUwVh3I8\n ON PLACE ChIJ0x_GDX5H0i0Rg6hpUaN9aOc\n ON PLACE ChIJ9Tg88nA40i0R0hoZePo2pao\n ON PLACE ChIJVyRoo35H0i0R2976R-KKVAU\n ON PLACE ChIJTZ9oK2-H0S0Rl1pnTSFhF3c\n ON PLACE ChIJgwzzcDVA0i0R4G0N7a3VJUQ\n ON KEYWORD bike rent\n ON PAGE 1\n ON PLACE ChIJGzjX22BH0i0RxYaZ3mRVA18\n ON PLACE ChIJkzY39zVA0i0Ramkf2cTlkz4\n ON PLACE ChIJYVAatW090i0RCRZ8wl4Gggk\n ON PLACE ChIJE0CEVNpa0i0RcjmA0mita2s\n ON PLACE ChIJN-gjPWlB0i0RQ1PRL08PkwU\n ON PLACE ChIJJ_zvD25E0i0RIddpvXjGoJY\n ON PLACE ChIJO5LEeGtH0i0RIuqe8MwLnWI\n ON PLACE ChIJk2EJrmZA0i0RgNjF4DzW24A\n ON PLACE ChIJlzDvfBdH0i0R-4TscC8XDNo\n ON PLACE ChIJGwXOpDlA0i0R7KJfaejZ8Nc\n ON PLACE ChIJ3UwJ2D2b0S0Rqj06xIgTtJo\n ON PLACE ChIJuYft4GZA0i0RDsmjQ2TY2SA\n ON PLACE ChIJ5awhoFdA0i0RfJ9mqamemKA\n ON PLACE ChIJ0UqlgHQ90i0RHK05x5YypX4\n ON PLACE ChIJAzJ-pcdB0i0RvNZcVvJalzM\n ON PLACE ChIJaceurmZA0i0RRuCgX6QcwRA\n ON PLACE ChIJ48P1RHI90i0RQuAiRJYY4_g\n ON PLACE ChIJhRsErGZA0i0RAzJ9XlAEXS0\n ON PLACE ChIJjynVIjo90i0RH64Hu_bCj4M\n ON PLACE ChIJx64x0Gs90i0RXB2Ou78C7CA\n ON PAGE 2\n ON PLACE ChIJXYxjDn9H0i0RzaraQfGBDxs\n ON PLACE ChIJF0RNBn5A0i0RezbUlUZLFu4\n ON PLACE ChIJAx_I2B9E0i0Rq18TRCWzknk\n ON PLACE ChIJ_bByzms90i0Rfywra4Z9A28\n ON PLACE ChIJ5ZdtqJtA0i0RYyszjWMgUcw\n ON PLACE ChIJX4WQRGk90i0RBd9QiLuVwSw\n ON PLACE ChIJ6YgyYBdH0i0R-KbUxiBEiWI\n ON PLACE ChIJAQBdVHg40i0R6pHWvWiewC4\n ON PLACE ChIJrx9Z-WBH0i0RxqxJqP---mI\n ON PLACE ChIJ6Xpf4GZA0i0ReaTr3z7c3ic\n ON PLACE ChIJIQDYBmtH0i0RlkB5ASKrSdc\n ON PLACE ChIJ_5PzpZE40i0R88UzHZ5Hkqc\n ON PLACE ChIJsfSOgmtH0i0RUd4vWtWuqOs\n ON PLACE ChIJd3zISHs40i0RcM-X4wmy42k\n ON PLACE ChIJ54iFmZ040i0RKDCfiX50tgY\n ON PLACE ChIJM90WtHhH0i0Rl-ISfxD2jtE\n ON PLACE ChIJg7E8hok40i0RvlgLG9PFNs0\n ON PLACE ChIJnzReDn9H0i0RPFnMjhPebaQ\n ON PLACE ChIJexfiLCFH0i0RIDFaQB1wsBc\n ON PLACE ChIJy8RwrmZA0i0R9m6_6sZzyLQ\n ON PAGE 3\n ON PLACE ChIJ9Tg88nA40i0R0hoZePo2pao\n ON PLACE ChIJAe6dUH040i0RTAAjokf_OA0\n ON PLACE ChIJE_Wez91G0i0R6GAcck5YVvQ\n ON PLACE ChIJj2b0IblG0i0RPu0KFRA6dbQ\n ON PLACE ChIJT3FGKno40i0RsQLyEw-Mlhw\n ON PLACE ChIJO6h96yYw0i0R3GJ7DWxml_o\n ON PLACE ChIJH_UF2GZA0i0RLo0PEQ9LKTQ\n ON PLACE ChIJaceurmZA0i0REyQdciS7Ikk\n ON PLACE ChIJk2rjRm9D0i0R5rPkeoAfQ_Q\n ON PLACE ChIJheb1dkhH0i0RZLGGQae8ET4\n ON PLACE ChIJKanIIGBH0i0Rry2z-WEBMrQ\n ON PLACE ChIJjxlpRXtE0i0R0okxIXdEcsE\n ON PLACE ChIJ26GQrbtD0i0REea4MiOxgtI\n ON PLACE ChIJuYft4GZA0i0R_HixtAylykc\n ON PLACE ChIJ38Y6Hnw40i0RUnbf8M1dYYY\n ON PLACE ChIJFe3G2WZA0i0RLrXJa41EGJE\n ON PLACE ChIJ21ZERVk50i0RkNYLNytfnjI\n ON PLACE ChIJZ-34_X1A0i0RMlPnvh2jwRs\n ON PLACE ChIJUeZRY9VF0i0RMQeh2SZwQB8\n ON PLACE ChIJKazybDub0S0R5uYp1vDQsZo\n ON KEYWORD sewa motor\n ON PAGE 1\n ON PLACE ChIJ1-BPC7FG0i0RVK9BZAx6Kww\n ON PLACE ChIJNdu-o8JA0i0Rzui3RXbdpI0\n ON PLACE ChIJlQU9tSNH0i0RfztIp1rlWN0\n ON PLACE ChIJi9S3GyJE0i0Rqn1022eNUhw\n ON PLACE ChIJfcFx7PtA0i0R2PLcnwgl8Sw\n ON PLACE ChIJyfFqNVU_0i0RVAkhDoNASrQ\n ON PLACE ChIJbRuNJWNA0i0RhM6muzZvei8\n ON PLACE ChIJGYgHIlJB0i0Rxp68c4wbNKQ\n ON PLACE ChIJKeo9pLpG0i0RaQcMOH74pzc\n ON PLACE ChIJpxNPnlE_0i0RcT2UGwTqR9w\n ON PLACE ChIJWVCruJVA0i0RZ8OLA_V16aI\n ON PLACE ChIJ93If4olE0i0RXlmq4LY8VCU\n ON PLACE ChIJnWSdVq5G0i0RsMvRSnVCluI\n ON PLACE ChIJc19AYSJE0i0Rql6dIKqJk2I\n ON PLACE ChIJJW3C-MdB0i0RLpexpYkfOOo\n ON PLACE ChIJBz2U18tG0i0R-mYqmxXInXE\n ON PLACE ChIJq2Gu_G1E0i0RVtxomrp54PI\n ON PLACE ChIJp6YnqKBG0i0R7L12bNuBR3U\n ON PLACE ChIJoSVOshRH0i0RidbrMWq2JP0\n ON PLACE ChIJTx-RLbo40i0RZXpaUa1gMT0\n ON PAGE 2\n ON PLACE ChIJpXUf5tdG0i0R6vRaHWmAZAg\n ON PLACE ChIJK46J4jhA0i0Rra23rcLzxHc\n ON PLACE ChIJRTZFCqVG0i0Rfsh7YBgW_2g\n ON PLACE ChIJ51jKuqRG0i0R-XtwJxlBIZk\n ON PLACE ChIJfQiwDsVG0i0RkB1GGUnDbq4\n ON PLACE ChIJizhcIdBG0i0RFvG5vOgegQA\n ON PLACE ChIJF2Aa0CY50i0RpgG2xRrpKL0\n ON PLACE ChIJkxdUA8VG0i0RprLnm8GqnNk\n ON PLACE ChIJq7CoLZM40i0Rw3Kv7Zr8vAw\n ON PLACE ChIJoTXpxKBG0i0ReHYnNQc8JBA\n ON PLACE ChIJZ_QiK65G0i0RLpGcgmLC7DU\n ON PLACE ChIJL3anO7pG0i0RiUfRGzsg2hQ\n ON PLACE ChIJq23-XyJE0i0RcIxUSZ_g-S8\n ON PLACE ChIJVUXRXcxG0i0Rbt3SUAzM_IA\n ON PLACE ChIJQ4_08shB0i0R7CMITMdpUYk\n ON PLACE ChIJ6UdIJkFA0i0RjSDjvsZ7ubk\n ON PLACE ChIJf74PQGpB0i0RwtflIbLNxco\n ON PLACE ChIJeyCjWqBG0i0R_DADqN0ROFQ\n ON PLACE ChIJ6_LhER1DBAURWLhDrhDx0Gg\n ON PLACE ChIJZ7IfOhhH0i0RDyY2exfSkqs\n ON PAGE 3\n ON PLACE ChIJOyLHk01H0i0RpasUym1gQO0\n ON PLACE ChIJYxz1_2tH0i0RXLU8iXTvG9U\n ON PLACE ChIJ_bByzms90i0Rfywra4Z9A28\n ON PLACE ChIJ61rrO1U_0i0RE-p6-SQ37oA\n ON PLACE ChIJ38Y6Hnw40i0RUnbf8M1dYYY\n ON PLACE ChIJnzReDn9H0i0RPFnMjhPebaQ\n ON PLACE ChIJd03B469G0i0Rrus86CW0jjs\n ON PLACE ChIJgeIMb7dG0i0RnfyNFpFJkBM\n ON PLACE ChIJX4WQRGk90i0RBd9QiLuVwSw\n ON PLACE ChIJw83qQANE0i0R6vs-NbYUhKI\n ON PLACE ChIJRQMiUjw90i0R4WtrupLxyc0\n ON PLACE ChIJeYmQRfBA0i0R_Gx2JKYVIA0\n ON PLACE ChIJOw4vEEFA0i0RblpNxzQHd10\n ON PLACE ChIJ_SvUFFBH0i0RbM7ultlzOxc\n ON PLACE ChIJ6xCb1rE40i0RAwo6GvJaugQ\n ON PLACE ChIJvxpnDrdG0i0Rxm4sS-kDBGQ\n ON PLACE ChIJheb1dkhH0i0RZLGGQae8ET4\n ON PLACE ChIJy1wigqVG0i0R9hJBP7X4ux4\n ON PLACE ChIJmRlebE1H0i0R5QnA9HWG3rA\n ON PLACE ChIJh2lp1B5E0i0Rq494guOE9Ng\n ON KEYWORD rental motor\n ON PAGE 1\n ON PLACE ChIJ1-BPC7FG0i0RVK9BZAx6Kww\n ON PLACE ChIJi9S3GyJE0i0Rqn1022eNUhw\n ON PLACE ChIJGYgHIlJB0i0Rxp68c4wbNKQ\n ON PLACE ChIJNdu-o8JA0i0Rzui3RXbdpI0\n ON PLACE ChIJyfFqNVU_0i0RVAkhDoNASrQ\n ON PLACE ChIJlQU9tSNH0i0RfztIp1rlWN0\n ON PLACE ChIJnWSdVq5G0i0RsMvRSnVCluI\n ON PLACE ChIJ70Qs8_dA0i0R8RCtKj7ASSY\n ON PLACE ChIJbRuNJWNA0i0RhM6muzZvei8\n ON PLACE ChIJfcFx7PtA0i0R2PLcnwgl8Sw\n ON PLACE ChIJo-U8u89A0i0Rio3WXp0_Vps\n ON PLACE ChIJpxNPnlE_0i0RcT2UGwTqR9w\n ON PLACE ChIJZ30t12VH0i0RpxHqfa_FgSQ\n ON PLACE ChIJKeo9pLpG0i0RaQcMOH74pzc\n ON PLACE ChIJq2Gu_G1E0i0RVtxomrp54PI\n ON PLACE ChIJK46J4jhA0i0Rra23rcLzxHc\n ON PLACE ChIJa5MsUo5E0i0RKNlSp_Aeapk\n ON PLACE ChIJq23-XyJE0i0RcIxUSZ_g-S8\n ON PLACE ChIJRTZFCqVG0i0Rfsh7YBgW_2g\n ON PLACE ChIJh2lp1B5E0i0Rq494guOE9Ng\n ON PAGE 2\n ON PLACE ChIJc19AYSJE0i0Rql6dIKqJk2I\n ON PLACE ChIJVyRoo35H0i0R2976R-KKVAU\n ON PLACE ChIJgeIMb7dG0i0RnfyNFpFJkBM\n ON PLACE ChIJEw2K1J040i0RrCGWj4EOEwU\n ON PLACE ChIJoTXpxKBG0i0ReHYnNQc8JBA\n ON PLACE ChIJTx-RLbo40i0RZXpaUa1gMT0\n ON PLACE ChIJp6YnqKBG0i0R7L12bNuBR3U\n ON PLACE ChIJWVCruJVA0i0RZ8OLA_V16aI\n ON PLACE ChIJoSVOshRH0i0RidbrMWq2JP0\n ON PLACE ChIJnzReDn9H0i0RPFnMjhPebaQ\n ON PLACE ChIJJW3C-MdB0i0RLpexpYkfOOo\n ON PLACE ChIJ93If4olE0i0RXlmq4LY8VCU\n ON PLACE ChIJ6UdIJkFA0i0RjSDjvsZ7ubk\n ON PLACE ChIJBz2U18tG0i0R-mYqmxXInXE\n ON PLACE ChIJq7CoLZM40i0Rw3Kv7Zr8vAw\n ON PLACE ChIJF2Aa0CY50i0RpgG2xRrpKL0\n ON PLACE ChIJYxz1_2tH0i0RXLU8iXTvG9U\n ON PLACE ChIJy1wigqVG0i0R9hJBP7X4ux4\n ON PLACE ChIJw83qQANE0i0R6vs-NbYUhKI\n ON PLACE ChIJ_bByzms90i0Rfywra4Z9A28\n ON PAGE 3\n ON PLACE ChIJvxpnDrdG0i0Rxm4sS-kDBGQ\n ON PLACE ChIJmRTI-RdH0i0RnaEXxRzhhM4\n ON PLACE ChIJzxAbU6BG0i0Rt-YF8tD-Pe8\n ON PLACE ChIJOyLHk01H0i0RpasUym1gQO0\n ON PLACE ChIJZ_QiK65G0i0RLpGcgmLC7DU\n ON PLACE ChIJf74PQGpB0i0RwtflIbLNxco\n ON PLACE ChIJL3anO7pG0i0RiUfRGzsg2hQ\n ON PLACE ChIJeyCjWqBG0i0R_DADqN0ROFQ\n ON PLACE ChIJqaqqqoU40i0RDCRZdz1TJAc\n ON PLACE ChIJdVfcOZ490i0RNawSGkwbiIU\n ON PLACE ChIJGxAJ9D9H0i0Rag8EkfMglzc\n ON PLACE ChIJe7orQmk90i0RURb37qx5WKM\n ON PLACE ChIJheb1dkhH0i0RZLGGQae8ET4\n ON PLACE ChIJnVsdB0I90i0RmiU05dCDllw\n ON PLACE ChIJd03B469G0i0Rrus86CW0jjs\n ON PLACE ChIJqWeoI6FG0i0RRxtgZRlgBVs\n ON PLACE ChIJx2k0MMFG0i0RcKJH8scctvY\n ON PLACE ChIJhaFrpn9H0i0R3tFy1fktO7M\n ON PLACE ChIJHQ1txaBG0i0R2lefnWWovBI\n ON PLACE ChIJ5QL1X6NG0i0RPpt8O0qdxqc\n DONE\n",
 			"settings":
 			{
-				"buffer_size": 395,
-				"line_ending": "Unix"
+				"buffer_size": 14109,
+				"line_ending": "Unix",
+				"name": "Injecting configuration and compiling..."
 			}
 		}
 	],
@@ -924,6 +926,7 @@
 	],
 	"file_history":
 	[
+		"/Users/ukz/repos/work-projects/motorbike_shops_in_bali/Gemfile",
 		"/Users/ukz/repos/work-projects/melalie-api/app/controllers/products_controller.rb",
 		"/Users/ukz/repos/work-projects/melalie-api/app/controllers/api/v1/motorbike_bookings_controller.rb",
 		"/Users/ukz/repos/work-projects/melalie-api/config/routes.rb",
@@ -1050,8 +1053,7 @@
 		"/Users/ukz/repos/work-projects/melalie-api/frontend/components/dashboard/products/product_add/form_helper.js",
 		"/Users/ukz/repos/work-projects/melalie-api/db/migrate/20181023070116_add_engine_capacity_and_transmission_to_motorbikes.rb",
 		"/Users/ukz/repos/work-projects/melalie-api/yarn.lock",
-		"/Users/ukz/repos/work-projects/melalie-api/frontend/components/dashboard/orders/dashboard_orders.js",
-		"/Users/ukz/repos/work-projects/melalie-api/frontend/components/dashboard/dashboard.js"
+		"/Users/ukz/repos/work-projects/melalie-api/frontend/components/dashboard/orders/dashboard_orders.js"
 	],
 	"find":
 	{
@@ -1096,19 +1098,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2044,
+						"buffer_size": 2285,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								233,
-								233
+								1821,
+								1821
 							]
 						],
 						"settings":
 						{
+							"SL.282.region_keys":
+							[
+							],
 							"apply_syntax_touched": true,
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
@@ -1118,24 +1123,24 @@
 								{
 									"1":
 									[
-										2027,
-										2030
+										1825,
+										1826
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/dot.png",
-										"region.yellowish brackethighlighter.default"
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										231,
-										233
+										1806,
+										1807
 									]
 								},
 								"unmatched":
@@ -1202,9 +1207,9 @@
 							],
 							"editorconfig": true,
 							"ensure_newline_at_eof_on_save": true,
-							"markdonw_live_preview_last_run": 1541683247.09,
+							"markdonw_live_preview_last_run": 1541683397.81,
 							"syntax": "Packages/Better Ruby/Ruby.sublime-syntax",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true,
 							"trim_trailing_white_space_on_save": true
 						},
@@ -1217,24 +1222,24 @@
 				},
 				{
 					"buffer": 1,
-					"file": "Gemfile.lock",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 395,
+						"buffer_size": 14109,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								241,
-								241
+								418,
+								418
 							]
 						],
 						"settings":
 						{
 							"apply_syntax_touched": true,
+							"auto_name": "Injecting configuration and compiling...",
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.clone": -1,
 							"bracket_highlighter.clone_locations":
@@ -1383,16 +1388,11 @@
 								"bh_unmatched_close",
 								"bh_unmatched_content"
 							],
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"markdonw_live_preview_last_run": 1541683387.13,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
+							"default_dir": "/Users/ukz/repos/work-projects/motorbike_shops_in_bali",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 9626.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
