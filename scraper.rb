@@ -43,8 +43,8 @@ areas.each do |area|
       loop do
         params = hash_to_query({
           key: apikey,
-          location: '-8.340530,115.091907',
-          radius: 170000,
+          location: area[:location],
+          radius: area[:radius],
           keyword: keyword,
           pagetoken: pagetoken
         })
