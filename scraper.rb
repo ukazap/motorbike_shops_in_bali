@@ -65,7 +65,7 @@ areas.each do |area|
         details = (JSON.parse details_response.body rescue Hash.new)['result']
 
         if !details.nil?
-          ScraperWiki.save_sqlite(["place_id"], {
+          ScraperWiki.save_sqlite(["area", "place_id"], {
             "place_id" =>                   details['place_id'],
             "name" =>                       details['name'],
             "rating" =>                     details['rating'],
